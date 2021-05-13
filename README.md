@@ -1,4 +1,5 @@
 # Fantasy11-Desktop-Application
+<h3>View full presentation of this project : <a href="Fantasy Premier League - Gaurav.pdf">Fantasy11</a></h3>
 <p>This training consisted of Principles of Object-oriented
 Programming (OOP), Connecting to SQLite Database, Developing a GUI with PyQT and Application of Python in Various Disciplines modules. Based on the above technology stack, I built a desktop-based application named Fantasy11. </p>
 <p>In this application :</p>
@@ -7,7 +8,7 @@ Programming (OOP), Connecting to SQLite Database, Developing a GUI with PyQT and
            Users can create their team.
     </li>
     <li>
-           Users can create their team.
+           They can save their team and use them after any time.
     </li>
     <li>
            They can view their team in the "Open Team" section.
